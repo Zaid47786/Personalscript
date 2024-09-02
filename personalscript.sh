@@ -1,7 +1,5 @@
 #!/bin/bash
-#𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 𝐁𝐎𝐒𝐒 𝐁𝐈𝐒𝐇𝐔 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 
-#𝐁𝐈𝐒𝐇𝐔 𝐍𝐄𝐓𝐖𝐎𝐑𝐊
-#@universe9720
+#@MrBaiGun
 clear
 #=========================================================================================================================
 
@@ -342,19 +340,19 @@ apt autoremove -y
 # finishing
 rm -fr /etc/issue.net
 cat> /etc/issue.net << END
-</strong> <p style="text-align:center"><b> <br><font 
-color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄
-𝐍𝐄𝐓𝐖𝐎𝐑𝐊<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font 
-color="#00FF00"></strong> <p style="text-align:center"><b> <br><font 
-color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font 
-color='#FFFF00'><b> ★ [ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 ] ★ 
-</b></font><br><font color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> 
-<font color="#FF0000">❖Ƭʜᴇ No XXX/font><br> <font 
-color="#FFB1C2">❖Ƭʜᴇ No BP </font><br> <font color="#FFFFFF">❖Ƭʜᴇ No 
-Hacking</font><br> <font color="#00FF00">❖Ƭʜᴇ No PORN</font><br> <font 
-color="#00FF00">▄︻デ𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊══━一 </font><br> <font 
-color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font 
-color="FFFF00">@universe9720</font><br>
+</strong> <p style="text-align:center"><b> <br><font
+color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>PIRATE [ULTTER ZONE]
+<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font
+color="#00FF00"></strong> <p style="text-align:center"><b> <br><font
+color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font
+color='#FFFF00'><b> ★ [ ᭄W̺͆E̺͆L̺͆C̺͆O̺͆M̺͆E̺͆ T̺͆O̺͆ M̺͆Y̺͆ S̺͆E̺͆R̺͆V̺͆E̺͆R̺͆ ] ★
+</b></font><br><font color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF">❖POWERED BY @MrBaiGun</font><br>
+<font color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font
+color="#FFB1C2">❖Ƭʜᴇ POWERFULL VPS </font><br> <font color="#FFFFFF">❖Ƭʜᴇ No
+Hacking</font><br> <font color="#00FF00">❖THE PAID FILES</font><br> <font
+color="#00FF00">▄︻デPIRATE [ULTTER ZONE]══━一 </font><br> <font
+color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font
+color="FFFF00">@PirateUltterZone</font><br>
 END
 cd
 chown -R www-data:www-data /home/vps/public_html
